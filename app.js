@@ -8,7 +8,7 @@ app.use(cors());
 
 // Global route
 app.get("/", (req, res) => {
-  res.send("welcome to e-commerce project");
+  res.send("welcome to crud project");
 });
 
 // routes
